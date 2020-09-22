@@ -17,6 +17,9 @@
  
  
  You can reach the Portfolio link below:
+ ![GitHub Logo](/Assets/AboutMe-Screenshot.PNG)
+
+
  
  https://enxhis.github.io/Assignment2-ResponsivePortfolio/
 ______________________________________________________________
