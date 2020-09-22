@@ -33,7 +33,7 @@ body {
 }
 /* Footer styles */ 
 footer{
-    font-family:  'Kufam', cursive;
+    font-family: 'Raleway', sans-serif;
     display: grid;
     position: sticky;
 }
@@ -43,17 +43,17 @@ footer{
 
 /* index.html */ 
 .bio{
-    font-family: 'Kufam', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 
 /* contact.html */
 /* Form styles */
 form{
-    font-family:  'Kufam', cursive;
+    font-family: 'Raleway', sans-serif;
     background-color: #f4f4f4;
 }
 .mb-2{
-    font-family:  'Kufam', cursive;
+    font-family: 'Raleway', sans-serif;
     background-color: #fabea7;
 }
 
@@ -63,5 +63,5 @@ form{
 }
 /*  Cards styles*/
 .card-text{
-    font-family:  'Kufam', cursive;
+    font-family: 'Raleway', sans-serif;
 }
