@@ -14,10 +14,7 @@
  
  @ Semantic usage of HTML
  
- 
- 
- You can reach the Portfolio link below:
- ![GitHub Logo](/Assets/AboutMe-Screenshot.PNG)
+
 
 
  
