@@ -15,6 +15,9 @@
  @ Semantic usage of HTML
  
  
+ 
+ You can reach the Portfolio link below:
+ 
  https://enxhis.github.io/Assignment2-ResponsivePortfolio/
 ______________________________________________________________
 © 2020 Enxhi Salaj
